@@ -1,0 +1,115 @@
+/*
+
+My Custom CSS
+=============
+
+/* --------------------------------------
+   Layout#
+   -------------------------------------- */
+#header {
+    margin-top: -25px;
+    background-image: url(../img/run.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 150px;
+    width: 1300px;
+    margin-left: -62px;
+    margin-right: 30px
+    
+}
+
+#pong {
+    background-color: darkseagreen;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+    margin-top: -20px;
+    width: 1300px;
+    padding-right: 30px;
+  
+}
+h1 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color:#00ff00;
+    margin-left: 40px;
+
+}
+
+h2 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 60px;
+    text-align:center;
+    color:chartreuse;
+}
+
+p {
+    font-family: 'Audiowide', cursive;
+    font-size: 30px;
+    text-align:center;
+    color:darkgreen;
+}
+
+h3 {
+    font-family: 'Limelight', cursive;
+    font-size: 40px;
+    text-align:center;
+    color:#333300;
+}
+.list li {
+    font-family: 'Limelight', cursive;
+    font-size: 28px;
+    text-align:center;
+    color:darkcyan;
+}
+
+.label {
+    font-family: 'Limelight', cursive;
+    font-size: 20px;
+    text-align:center;
+    color:#009999;
+}
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+   
+   
+   
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+	
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+	
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+	
+}
